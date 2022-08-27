@@ -6,9 +6,14 @@ My name is Leandro Filipe Lourenço Carvalho and I am a portuguese IMS (Informat
 <br>
 
 ## Connect with me
-[<a href="https://www.linkedin.com/in/leandro-carvalho-23700b215"><img align="left" alt="linked-in" 
-src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=003CFF&labelColor=black&color=black'/></a>]
+<a href="https://www.linkedin.com/in/leandro-carvalho-23700b215"><img align="left" alt="linked-in" 
+src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=003CFF&labelColor=black&color=black'/></a>
 
+<br>
+<br>
+
+##Expertise
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--
 **LeandroCarvalho200409/LeandroCarvalho200409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
