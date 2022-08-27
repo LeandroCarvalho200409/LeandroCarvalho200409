@@ -6,8 +6,8 @@ My name is Leandro Filipe Lourenço Carvalho and I am a portuguese IMS (Informat
 <br>
 
 ## Connect with me
-[<img align="left" alt="linked-in" 
-src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=003CFF&labelColor=black&color=black'/>]("https://www.linkedin.com/in/leandro-carvalho-23700b215")
+[<a href="https://www.linkedin.com/in/leandro-carvalho-23700b215"><img align="left" alt="linked-in" 
+src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=003CFF&labelColor=black&color=black'/></a>]
 
 
 <!--
