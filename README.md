@@ -1,8 +1,7 @@
 ### Hello everyone 👋
-My name is Leandro Filipe Lourenço Carvalho and I am a portuguese IMS (Informatikmittelschule) student currently living in Switzerland.
+My name is Leandro Filipe Lourenço Carvalho and I'm currently in my first year of the bachelor in Software Engineering at the Universidade do Minho, in Braga, Portugal. I was born in Switzerland and that's where I've lived till 2024. I attended school in Switzerland, where I also visited the Informatikmittelschule (secondary-school which leads to a professional certificate as a Software Developer). In my last year in Switzerland I had the pleasure to do an internship at the Zürcher Kantonalbank, where I helped to develop and maintain a high-availability application with Java (Spring Boot) and Angular). In 2024 I fullfilled my dream of going to college in the sunny Portugal, and that's where I'am at the moment.
 
-- 🔭 I'm currently working on a simple todo web-application which is being developed with Python (Django), which is also going to have a mobile version developed with React-Native
-- 🌱 I am currently learning how to use the Python framework Django while working on the todo-application.
+- 🔭 I'm currently working on a Personal-Portfolio with Angular
 <br>
 
 ## Connect with me
@@ -26,6 +25,8 @@ src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linke
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)]
+[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 
 
 
