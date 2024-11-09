@@ -25,7 +25,7 @@ src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=Linke
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)]
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 
 
